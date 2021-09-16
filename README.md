@@ -12,7 +12,11 @@ Serviços que cada cliente assinou - telefone, várias linhas, internet, seguran
 Informações da conta do cliente - há quanto tempo ele é cliente, contrato, forma de pagamento, faturamento sem papel, cobranças mensais e cobranças totais<br>
 Informações demográficas sobre clientes - sexo, faixa etária e se eles têm parceiros e dependentes
 
+Pasta contém 3 datasets, 
 
+1 - EDA - mostrando a exploração dos dados <br>
+2 - Baseline - fazendo testes em diferentes modelos <br>
+3 - Modelo finalizado <br>
   
 A lógica usada:
 
